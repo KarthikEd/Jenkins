@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application ghfh description page.";
+            ViewBag.Message = "Your NewBranch description page.";
 
             return View();
         }
