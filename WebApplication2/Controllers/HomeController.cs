@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your FirstDemo description page.";
+            ViewBag.Message = "LAtest Changes";
 
             return View();
         }
