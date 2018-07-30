@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your NewBranch description page.";
+            ViewBag.Message = "Your FirstDemo description page.";
 
             return View();
         }
